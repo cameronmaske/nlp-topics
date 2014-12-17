@@ -1,0 +1,2 @@
+gensim==0.10.3
+Flask
